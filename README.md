@@ -8,6 +8,7 @@ https://trek.gitbook.io/aottertrek-sdk-doc/android/admob-mediation
 
 ### Trek AdMob Mediation release change log
 - 2022/06/22 release - SDK `4.6.1` (Recommend)
+     - New Sensor
      - `AdLoader` instead of `TrekAd`
      - `TrekNativeAd` instead of `AdData`
      - `TrekAds.initialize() method` instead of  `AotterService.initialize() method`
