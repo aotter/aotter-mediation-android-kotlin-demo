@@ -84,7 +84,7 @@ https://trek.gitbook.io/aottertrek-sdk-doc/android/admob-mediation
     - Add Supr.Ad sample code
     - Add Banner Ad sample code
 
-@Deprecation
+
 ## Trek MoPub Mediation Example App Demo
 
 ### Trek MoPub Mediation Document
