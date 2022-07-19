@@ -7,7 +7,17 @@ Mediation Example Demo
 https://trek.gitbook.io/aottertrek-sdk-doc/android/admob-mediation
 
 ### Trek AdMob Mediation release change log
-- 2022/06/22 release - SDK `4.5.0` (Recommend)
+- 2022/06/22 release - SDK `4.6.1` (Recommend)
+     - `AdLoader` instead of `TrekAd`
+     - `TrekNativeAd` instead of `AdData`
+     - `TrekAds.initialize() method` instead of  `AotterService.initialize() method`
+     - `TrekBannerAdView` instead of `TrekBannerView `
+     -  New `TrekAdViewBinder` object (Using the object register ad layout)
+     - `TrekJsonObject` instead of `JsonObject`
+     - Kotlinx-serialization instead of Gson
+     - Updating ExoPlayer version to `2.17.1`
+     - Updating Kotlin version to `1.6.21`
+- 2022/06/22 release - SDK `4.5.0`
      - new TrekNativeAdImage 
      - Support vertical slide
      - Open browser with chrome
@@ -63,6 +73,8 @@ https://trek.gitbook.io/aottertrek-sdk-doc/android/admob-mediation
      - New released Trek AdMob Mediation
 
 ### Demo release change log
+- 2022/07/19
+    - update sample code
 - 2022/04/15
     - update sample code
 - 2022/03/28
@@ -72,6 +84,7 @@ https://trek.gitbook.io/aottertrek-sdk-doc/android/admob-mediation
     - Add Supr.Ad sample code
     - Add Banner Ad sample code
 
+@Deprecation
 ## Trek MoPub Mediation Example App Demo
 
 ### Trek MoPub Mediation Document
